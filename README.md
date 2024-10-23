@@ -1,4 +1,4 @@
-# Korosu - 殺す
+# Korosu - 殺す - CVE-2021-31728 
 A varient of SadBoy.Terminator - Uses the vulnerable 'Zemana Antimalware' driver to kill EDR.  
 Bundles the (***widely detected***) vulnerable terminator.sys driver into a windowless C++ executable.
 
